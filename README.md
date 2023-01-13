@@ -25,4 +25,4 @@ https://github.com/carlboisvertdev/UnityMultiplayerWithUGS
 - Handle your inventory however you want, use the ChestController as an example!
 
 # Where can i find support?
-https://discord.gg/vxH97zNp8N
+https://discord.gg/z8nrUdRkXe
