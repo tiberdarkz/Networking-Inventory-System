@@ -15,7 +15,7 @@ https://github.com/carlboisvertdev/UnityMultiplayerWithUGS
      * ChestUI (Canvas)
          * Inventory Parent (Grid Layout Group)
 
-- Setup the values of the ChestController
+- Setup the values of the ChestController.
 - Load your scene with one player, and add a second player, and chests will sync over the network!
 
 # How do i add a custom inventory?
